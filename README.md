@@ -1,7 +1,7 @@
 # MetagenomicPipeline
 A pipeline for processing metagenomic FASTQ sequences to determine microbiome taxonomy and functional pathways using computational tools. This workflow enables efficient taxonomic classification and functional profiling of microbiomes from raw sequencing data.
 
-## Description for GitHub  
+## Description
 
 1. **Step 1: Download Metagenome Data**  
    - Install SRA Toolkit and download raw sequencing data from SRA (e.g., SRR2175645).  
